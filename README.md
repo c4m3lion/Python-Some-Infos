@@ -7,3 +7,9 @@ I will Add here some simple notes to remember
 pip install nbconvert
 jupyter nbconvert --to script my_notebook.ipynb
 ```
+
+------ py to exe ------
+```
+pip install pyinstaller
+pyinstaller my_notebook.py
+```
